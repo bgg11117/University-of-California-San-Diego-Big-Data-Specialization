@@ -1,5 +1,8 @@
 # Big Data Specialization from University of California San Diego
 
+Forked from 1.https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization 
+            2.https://github.com/jingwen-z/bigdata-ucsd 
+
 ## Overview
 [Big Data Specialization from University of California San Diego](https://www.coursera.org/specializations/big-data) is an introductory learning path for the Big Data world.  
 
@@ -24,8 +27,3 @@ This specialization covers:
 You can see the [Certificate of Completion](https://github.com/AlessandroCorradini/Certificates/blob/master/Coursera%20-%20Big%20Data%20Specialization%20Certificate%20-%20UC%20San%20Diego.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
 
 <br/>
-
-### ⚠️ Disclaimer ⚠️
-**Please, don't fork or copy this repository.**
-
-**Big Data Specialization from University of California San Diego, is a very easy and straight forward path. You can complete it with a minimal effort.**
